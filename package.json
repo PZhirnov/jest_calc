@@ -1,0 +1,14 @@
+{
+  "name": "my_calculator",
+  "version": "1.0.0",
+  "description": "task 3 for advansed js",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pavel Zhirnov",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
